@@ -27,7 +27,7 @@ git clone https://github.com/minecraftdixit/Gmake.git
 2. Install the required dependencies using pip
 
 ```
-cd GMAKE
+cd Gmake
 cd src
 pip install -r requirements.txt
 ```
@@ -35,7 +35,7 @@ pip install -r requirements.txt
 3. Navigate to the directory containing the cloned repository.
 
 ```
-cd GMAKE
+cd Gmake
 cd public
 ```
 
