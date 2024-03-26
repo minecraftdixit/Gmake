@@ -23,7 +23,7 @@ This is a GUI-based Makefile generator tool built using Python. It provides an i
 
 ```
 git clone https://github.com/minecraftdixit/Gmake.git
-
+```
 2. Install the required dependencies using pip
 
 ```
